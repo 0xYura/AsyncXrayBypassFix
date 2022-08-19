@@ -1,0 +1,5 @@
+main: org.OxYura.AsyncXrayBypassFix
+name: AsyncXrayBypassFix
+version: ersion 1.4.4 by 0xYura
+authors: [0xYura]
+depend: [ProtocolLib]
